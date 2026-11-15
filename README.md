@@ -9,7 +9,7 @@ This repository tracks my progress and personal notes for the course. Course mat
 ## Progress
 
 | Item | Status |
-|------|--------|
+|:-----|:-------|
 | Attendance surveys, Sessions 1 to 7 | Done |
 | Homework 1 to 5 (Sessions 2 to 6) | Submitted, 3 points each |
 | Homework 6 to 8 (Sessions 8 to 10) | Not yet submitted |
